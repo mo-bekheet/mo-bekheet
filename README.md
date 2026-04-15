@@ -46,8 +46,6 @@ class MohamedBekheet:
             "Natural Language Processing (NLP) 💬",
             "Big Data — Spark · Kafka · Airflow ⚡",
         ]
-
-        self.orgs     = ["@ML-Island", "@DEBI-Geeks", "@auranox-tech"]
         self.fun_fact = "I turn raw, messy data into gold ✨"
 
     def say_hi(self):
@@ -171,18 +169,6 @@ me.say_hi()
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedbakhet)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mohamed-bekheet.medium.com/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mohamed-bekheet)
-
-</div>
-
----
-
-## 🤝 Organizations I'm Part Of
-
-<div align="center">
-
-[![ML-Island](https://img.shields.io/badge/🏝️_ML--Island-Community-00D9FF?style=for-the-badge&labelColor=0d1117)](https://github.com/ML-Island)
-[![DEBI-Geeks](https://img.shields.io/badge/🤓_DEBI--Geeks-Community-FF6B6B?style=for-the-badge&labelColor=0d1117)](https://github.com/DEBI-Geeks)
-[![auranox-tech](https://img.shields.io/badge/⚡_auranox--tech-Company-FFD700?style=for-the-badge&labelColor=0d1117)](https://github.com/auranox-tech)
 
 </div>
 
